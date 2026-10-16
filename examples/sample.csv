@@ -1,0 +1,4 @@
+sku,price,qty,unit_cost,seller_discount,shipping_income,platform_subsidy,shipping_cost,packing_cost,ads_cost,other_cost,commission_rate,payment_rate,activity_mode,activity_rate,activity_fixed,activity_threshold,target_profit
+A-一般,399,1,200,20,0,0,55,10,15,0,0.06,0.025,none,0,0,100,50
+B-活動,119,1,65,0,0,0,30,6,0,0,0.06,0.025,threshold_fixed,0.06,60,100,15
+C-批量,699,2,390,30,60,0,80,15,40,0,0.06,0.025,rate,0.06,0,100,70
